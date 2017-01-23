@@ -1,0 +1,219 @@
+{"meetings":[
+	{
+		"topic": "KnowledgeShare Project Meeting A",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"assumption": 9,
+			"chairperson": 4,
+			"concurrently": 5,
+			"cool": 4,
+			"identifying": 7,
+			"justin": 6,
+			"luke": 14,
+			"matt": 30,
+			"meeting": 8,
+			"minutes": 4,
+			"noise": 6,
+			"rebecca": 11,
+			"robert": 11,
+			"rod": 4,
+			"unintelligible": 6,
+			"work": 4
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting B",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"assumption": 10,
+			"expect": 11,
+			"guys": 13,
+			"matt": 44,
+			"meeting": 9,
+			"minutes": 10,
+			"robert": 21
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting C",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"data": 13,
+			"luke": 23,
+			"matt": 38,
+			"noise": 8
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting D",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"luke": 9,
+			"matt": 34,
+			"noise": 6,
+			"relevance": 7,
+			"robert": 6,
+			"stuff": 8,
+			"talking": 6,
+			"uima": 11
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting E",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"justin": 8,
+			"luke": 8,
+			"matt": 31,
+			"rebecca": 13,
+			"unintelligible": 8
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting F",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"matt": 46,
+			"meeting": 23,
+			"unintelligible": 8,
+			"robert": 12,
+			"justin": 16,
+			"people": 24
+		}		
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting G",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"context": 9,
+			"luke": 7,
+			"matt": 9,
+			"meeting": 9,
+			"need": 8,
+			"workflow": 8
+		}	
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting H",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"data": 8,
+			"giggle": 10,
+			"inaudible": 17,
+			"justin": 11,
+			"luke": 14,
+			"matt": 20,
+			"problem": 11,
+			"robert": 9,
+			"think": 11
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting I",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"context": 10,
+			"data": 13,
+			"giggle": 6,
+			"inaudible": 32,
+			"justin": 9,
+			"knowledge": 6,
+			"luke": 23,
+			"problem": 6,
+			"robert": 11,
+			"think": 11,
+			"useable": 9
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting J",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"contextually": 5,
+			"data": 7,
+			"giggle": 6,
+			"inaudible": 13,
+			"information": 6,
+			"justin": 8,
+			"luke": 14,
+			"matt": 16,
+			"prediction": 6,
+			"sensitive": 5,
+			"think": 10,
+			"understanding": 5
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting K",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"guys": 26,
+			"inaudible": 21,
+			"matt": 22
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting L",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time":  "15.40",
+		"keywords": {
+			"guys": 10,
+			"inaudible": 30,
+			"matt": 36,
+			"project": 12,
+			"robert": 16,
+			"think": 18,
+			"time":  10
+		}
+	},
+	{
+		"topic": "KnowledgeShare Project Meeting M",
+		"attendees": "Matt, Justin, Luke, Joell, Rebecca, Robert",
+		"location": "Optika Solutions Office, Perth",	
+		"date": "27/09/2014",
+		"time": "15.40",
+		"keywords": {
+			"choose": 3,
+			"learn": 4,
+			"matt": 20,
+			"noise": 3,
+			"plan": 4,
+			"weeks": 20
+		}
+	}
+]}
